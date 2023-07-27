@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center">
-<img width="700px" src="https://ejeonghun.github.io/ejeonghun/main.gif">
+<img src="https://ejeonghun.github.io/ejeonghun/main.gif">
 </p>
 
 <h2 align="center">🛠 Tech Stack</h2>
