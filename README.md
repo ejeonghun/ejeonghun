@@ -2,8 +2,8 @@
 
 <br>
 <br>
-<p align="center" style="width:500px;">
-<img src="https://ejeonghun.github.io/ejeonghun/main.gif">
+<p align="center">
+<img src="https://ejeonghun.github.io/ejeonghun/main.gif" style="width:400px; height:auto;">
 </p>
 
 <h2 align="center">🛠 Tech Stack</h2>
