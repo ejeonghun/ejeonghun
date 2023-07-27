@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<p align="center">
+<p align="center" style="width:500px;">
 <img src="https://ejeonghun.github.io/ejeonghun/main.gif">
 </p>
 
