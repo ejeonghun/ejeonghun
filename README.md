@@ -6,6 +6,11 @@
 <img src="https://ejeonghun.github.io/ejeonghun/main.gif" style="width:550px; height:auto;">
 </p>
 
+<div align="center">
+<a href="https://github.com/ejeonghun"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejeonghun&count_bg=%2347BED3&title_bg=%23746F72&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
+
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
