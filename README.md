@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 
+<div align="center">
+  <a href="https://ejeonghun.github.io/">Main page</a>
 <h2 align="center">
 [Main site](https://ejeonghun.github.io/).
 </h2>
