@@ -18,6 +18,9 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 
 
+[Main site](https://ejeonghun.github.io/).
+
+
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=&fontSize=90)
