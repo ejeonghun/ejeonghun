@@ -23,8 +23,9 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 
 <div align="center">
-  <h3><a href="https://ejeonghun.github.io/">Main site</a></h3>
-
+  <h3><a href="https://ejeonghun.github.io/">Github Main site</a></h3>
+  <h3><a href="https://lunaweb.dev/">Website Main site</a></h3>
+</div>
 
 </p>
 
