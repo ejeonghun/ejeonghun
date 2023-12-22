@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://ejeonghun.github.io/ejeonghun/main.gif" style="width:550px; height:auto;">
+<!-- <img src="https://ejeonghun.github.io/ejeonghun/main.gif" style="width:550px; height:auto;"> -->
 </p>
 
 <div align="center">
