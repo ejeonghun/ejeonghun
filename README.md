@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 #### ✉️E-mail✉️
-  wjdgns4019@gmail.com
+<a href="mailto:wjdgns4019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdgns4019@gmail.com"/></a></p>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejeonghun&count_bg=%2347BED3&title_bg=%23746F72&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> 
 
